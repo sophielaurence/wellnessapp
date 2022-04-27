@@ -1,0 +1,87 @@
+* {
+  box-sizing:border-box;
+}
+
+body {
+  margin: auto;
+  display: block;
+  font-family: 'fira sans';
+}
+
+.mockup img{
+  height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.mockup {
+  background-color: #fff;
+}
+
+header img{
+width: 40%;
+margin: auto;
+  display: block;
+}
+
+header p {
+text-align: center;
+font-weight: 600;
+font-size: 2rem;
+color: #EFE382;
+}
+
+main {
+  padding-left: 20rem;
+  padding-right: 20rem;
+}
+.summary h1{
+  padding-top: 5rem;
+  color: #F08DA9;
+
+}
+
+.target-user h1{
+  padding-top: 5rem;
+  color: #BCE4E3;
+}
+
+.process h1{
+  padding-top: 5rem;
+  color: #A6DAE8;
+}
+
+.conclusion h1{
+  padding-top: 5rem;
+  color: #B9B2DC;
+}
+
+h2 {
+  color: #707070;
+}
+
+.wireframes-flow img{
+  height: 100%;
+  margin: auto;
+  display: block;
+
+
+}
+
+.visual-design img {
+  height: 150%;
+  margin: auto;
+  display:  block;
+}
+
+
+.prototype img {
+  height: 100%;
+  margin: auto;
+  display: block;
+  padding: 3rem;
+}
+
+.conclusion {
+  padding-bottom: 5rem;
+}
